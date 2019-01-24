@@ -15,13 +15,13 @@ Just made some badges on sketch for fun!
 
 Feel free to reuse!
 
-> Large Badges
+### Large Badges
 
 [![](mwlNovvum.svg)](https://www.novvum.io)
 
 [![](buGraphql.svg)](https://graphql.org)
 
-> Social Badges
+### Social Badges
 
 [![](twitter.svg)](https://twitter.com/rajinwonderland)
 
