@@ -5,8 +5,12 @@
 ## Background
 
 Just made some badges on sketch for fun!
-> <span style="color:red;">Don't plan on updating this very much.</span>
-> <span style="color:yellow;">The badges currently aren't dynamic or anything.</span>
+<blockquote style="color:red;">
+Don't plan on updating this very much. 
+  </blockquote>
+
+> The badges currently aren't dynamic or anything.
+
 
 ## Badges
 
