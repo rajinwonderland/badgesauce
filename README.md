@@ -5,10 +5,8 @@
 ## Background
 
 Just made some badges on sketch for fun!
-
-Don't plan on updating this very much.
-
-The badges currently aren't dynamic or anything.
+> <span style="color:red;">Don't plan on updating this very much.</span>
+> <span style="color:yellow;">The badges currently aren't dynamic or anything.</span>
 
 ## Badges
 
