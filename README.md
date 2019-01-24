@@ -29,10 +29,13 @@ Feel free to reuse!
 > Large Badges
 
 [![](mwlNovvum.svg)](https://www.novvum.io)
+
 [![](buGraphql.svg)](https://graphql.org)
 
 > Social Badges
 
 [![](twitter.svg)](https://twitter.com/rajinwonderland)
+
 [![](codesandbox.svg)](https://codesandbox.io/rajinwonderland)
+
 [![](github.svg)](https://github.com/rajinwonderland)
