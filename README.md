@@ -5,9 +5,8 @@
 ## Background
 
 Just made some badges on sketch for fun!
-<blockquote style="color:red;">
-Don't plan on updating this very much. 
-  </blockquote>
+
+> Don't plan on updating this very much. 
 
 > The badges currently aren't dynamic or anything.
 
